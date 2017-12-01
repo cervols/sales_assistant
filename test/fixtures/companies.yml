@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  approxEmployees: 1
+  founded: 1
+  overview: MyString
+
+two:
+  name: MyString
+  approxEmployees: 1
+  founded: 1
+  overview: MyString
